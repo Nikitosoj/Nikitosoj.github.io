@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @layer components {
+    .my-custom-style {
+        @apply bg-
+    }
+} */
+.main_jpg{
+    background-image: url("../src/images/main.jpg");
+}
